@@ -10,12 +10,6 @@ The Talent Casting Database is a custom WordPress plugin designed to manage a da
 - **Admin Functionality**: Integrates with WordPress admin interface for streamlined management.
 - **Front-End Display**: Custom shortcodes for displaying talent profiles dynamically.
 
-## Installation
-
-1. Clone or download the repository.
-2. Upload the plugin folder to your WordPress site in the `/wp-content/plugins/` directory.
-3. Activate the plugin through the WordPress admin dashboard under "Plugins."
-
 ## Usage
 
 1. Access the Talent Casting Database settings from the WordPress admin panel.
